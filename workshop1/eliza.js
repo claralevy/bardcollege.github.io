@@ -225,6 +225,10 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  ],
+  "~*x maybe ~*y": [
+    ":~)",
+  ],
 };
 
 var default_responses = [
